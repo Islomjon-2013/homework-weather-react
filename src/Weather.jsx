@@ -11,7 +11,8 @@ const Weather = () => {
           <a href="https://github.com/Islomjon-2013/homework-weather-react">
             GitHub
           </a>{" "}
-          and <a href="">Open sources</a>
+          and{" "}
+          <a href="https://reliable-arithmetic-865711.netlify.app/">Netlify</a>
         </footer>
       </div>
     </div>
