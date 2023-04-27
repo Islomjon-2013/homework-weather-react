@@ -1,35 +1,9 @@
-.weather {
-  border: 1px solid black;
-  margin: 50px;
-  border-radius: 20px;
-  background-color: black;
-  padding: 50px;
+.App {
+  max-width: 600px;
+  margin: 30px auto;
 }
-.weather h1 {
-  color: red;
-  font-size: 34px;
-  text-align: left;
-  margin-top: 20px;
-  margin-bottom: 20px;
-}
-ul li {
-  text-align: left;
-  font-size: 17px;
-  color: white;
-  list-style: none;
-}
-.degree {
-  color: white;
-  font-size: 60px;
-}
-.img {
-  width: 70px;
-  height: 70px;
-}
-.span {
-  position: absolute;
-  font-size: 26px;
-}
-.humidity {
-  font-size: 20px;
+
+.App footer {
+  font-size: 11px;
+  margin: 10px 0;
 }
